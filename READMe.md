@@ -1,0 +1,2 @@
+This is the project for the data visualization class.This projects use the live twitter data and locate them in th e google maps.
+It also use heatmap to show the location of the plot when there is clutter in the map.
